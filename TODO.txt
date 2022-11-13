@@ -1,0 +1,20 @@
+1. median in nxm array sorted rowwise
+2. median of two sorted arrays
+3. painter's partition problem
+4. KMP Search Pattern
+5. Manacher Algorithm - done but revise.
+6. Target sum A[i]-A[j] == k
+7. tortoise problem prove that they meet at the center. (see rough proved there)
+8. Max area rectangle in histogram
+9. stack that maintains the smallest element so far 
+10. lazy propagatioon in segment tree
+11. maintaining the maximum in each window of size k
+12. inorder traversal of a binary tree using stack
+13. morris traversal (threaded binary tree) for inorder traversal, think intuitively
+14. josephus formula 2(n-2^(log n))+1
+15. see how the traversals are implemented using stacks postorder and inorder become somewhat complex
+16. minimum swaps to sort the array
+17. see hashmap implementation in java
+18. see elevator design pattern in OOPS lld
+19. Dikstra's Algorithm
+20. Prim's MST Algorithm   (Dikstra's and Prim's MST algorithms are more or less similar)
